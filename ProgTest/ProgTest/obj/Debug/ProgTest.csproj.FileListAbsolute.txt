@@ -1,0 +1,16 @@
+C:\Users\Tyler\source\repos\ProgTest\ProgTest\bin\Debug\ProgTest.exe.config
+C:\Users\Tyler\source\repos\ProgTest\ProgTest\bin\Debug\ProgTest.exe
+C:\Users\Tyler\source\repos\ProgTest\ProgTest\bin\Debug\ProgTest.pdb
+C:\Users\Tyler\source\repos\ProgTest\ProgTest\obj\Debug\ProgTest.csproj.AssemblyReference.cache
+C:\Users\Tyler\source\repos\ProgTest\ProgTest\obj\Debug\ProgTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tyler\source\repos\ProgTest\ProgTest\obj\Debug\MainWindow.g.cs
+C:\Users\Tyler\source\repos\ProgTest\ProgTest\obj\Debug\App.g.cs
+C:\Users\Tyler\source\repos\ProgTest\ProgTest\obj\Debug\ProgTest_MarkupCompile.cache
+C:\Users\Tyler\source\repos\ProgTest\ProgTest\obj\Debug\ProgTest_MarkupCompile.lref
+C:\Users\Tyler\source\repos\ProgTest\ProgTest\obj\Debug\MainWindow.baml
+C:\Users\Tyler\source\repos\ProgTest\ProgTest\obj\Debug\ProgTest.g.resources
+C:\Users\Tyler\source\repos\ProgTest\ProgTest\obj\Debug\ProgTest.Properties.Resources.resources
+C:\Users\Tyler\source\repos\ProgTest\ProgTest\obj\Debug\ProgTest.csproj.GenerateResource.cache
+C:\Users\Tyler\source\repos\ProgTest\ProgTest\obj\Debug\ProgTest.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\ProgTest\ProgTest\obj\Debug\ProgTest.exe
+C:\Users\Tyler\source\repos\ProgTest\ProgTest\obj\Debug\ProgTest.pdb
